@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my text on my second slide
+The quick brown fox jumped over the lazy dog
